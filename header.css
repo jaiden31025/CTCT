@@ -1,0 +1,50 @@
+#topbar{
+    background-color: white;
+}
+
+.ribbon{
+    background-color: #008f8f;
+}
+#ribbon-small{
+    height: 7px;
+}
+#ribbon-large{
+
+    height: 56px;
+    padding-right: 20px;
+    border-bottom-left-radius: 50px;
+
+}
+
+#ctct-logo{
+    width: 220px;
+    height: 80px;
+}
+#padded-header{
+    padding: 30px;
+    padding-left: 50px;
+}
+
+.header-links{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px;
+}
+.header-links:hover{
+    color:white;
+}
+
+.flex-center{
+    display:flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+#menu-button{
+    color: #008f8f;
+    font-size: 20px;
+    margin:30px;
+    margin-right: 50px;
+    margin-left: 5px;
+}

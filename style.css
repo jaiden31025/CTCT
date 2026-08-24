@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+
+.nopad{
+    padding: 0px;
+}
+
+.container-fluid{
+    padding: 0px;
+}
+.row{
+    padding: 0;
+}
