@@ -88,27 +88,12 @@
     color:#008f8f;
     margin-bottom: 15px;
 }
-
-.news-item{
-
-}
 .news-item h5{
     margin-top: 15px;
     margin-bottom: 15px;
     color: #008f8f;
     font-size: 18px;
     font-weight: bold;
-}
-#footer{
-    background-color: #e3e3e3;
-    padding: 50px;
-    padding-top: 20px;
-    padding-bottom: 10px;
-    text-align: center;
-}
-#footer hr{
-    background-color: black;
-    height: 2px;
 }
 
 .col-xs-0{

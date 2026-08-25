@@ -12,3 +12,15 @@ body{
 .row{
     padding: 0;
 }
+
+#footer{
+    background-color: #e3e3e3;
+    padding: 50px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+#footer hr{
+    background-color: black;
+    height: 2px;
+}

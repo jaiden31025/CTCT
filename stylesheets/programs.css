@@ -1,0 +1,29 @@
+.program-header{
+    padding: 100px;
+    background-color: #008f8f;
+    color: white;
+}
+.program-header h1{
+    font-size: 70px;
+    font-weight: bolder;
+}
+.program-header h2{
+    margin-bottom: 30px;
+    font-weight: lighter;
+}
+#program-directory{
+    padding: 90px;
+    padding-top: 30px;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+.program-item{
+    overflow: hidden;
+    background-color: black;
+    color: white;
+}
+.program-item img{
+    width: 100%;
+};
