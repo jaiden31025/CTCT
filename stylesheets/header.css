@@ -25,6 +25,17 @@
     padding-left: 50px;
 }
 
+#centered-header{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+#centered-header img{
+    width: 30%;
+    height: 30%;
+}
+
+
 .header-links{
     color: white;
     font-size: 20px;
