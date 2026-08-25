@@ -22,3 +22,58 @@
     font-size: 16px;
     text-decoration: none;
 }
+
+#three-es{
+    padding:20px;
+    padding-top: 50px;
+    justify-content: center;
+    background-color: #008f8f;
+}
+
+.three-es-item{
+    background-color: white;
+    color: black;
+    text-align: center;
+    margin:5px;
+
+}
+.three-es-header{
+    color: #008f8f;
+    font-weight: bold;
+}
+
+#feed{
+    background-color: #e3e3e3;
+    padding: 20px;
+}
+#news{
+    background-color: white;
+    padding: 20px;
+
+}
+
+#news h2{
+    margin-bottom: 30px;
+}
+
+.feed-item{
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.feed-item h6{
+    color:#008f8f;
+    margin-bottom: 15px;
+}
+
+.news-item{
+
+}
+.news-item h5{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: #008f8f;
+    font-size: 18px;
+    font-weight: bold;
+}
