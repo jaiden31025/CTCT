@@ -45,7 +45,33 @@
     padding-top: 70px;
 }
 
+#math-header{
+    background-color: blue;
+    padding-top: 70px;
+}
+
+#gov-header{
+    background-color: rgb(0, 115, 75);
+    padding-top: 70px;
+}
+
+#sci-header{
+    background-color: rgb(0, 185, 0);
+    padding-top: 70px;
+}
+#art-header{
+    background-color: rgb(200, 0, 0);
+    padding-top: 70px;
+}
+
 .collapser{
     color: #008f8f;
     text-decoration: none;
+}
+
+.collapse p{
+    text-align: center;
+}
+#teachers{
+    text-align: left;
 }
