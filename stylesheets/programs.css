@@ -26,4 +26,26 @@
 }
 .program-item img{
     width: 100%;
-};
+}
+#academic-directory{
+    padding: 90px;
+    background-color: white;
+    color: black;
+}
+.academic-container{
+    text-indent: 15px;
+}
+.academic-container h2{
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+#english-header{
+    background-color: rgb(109, 0, 172);
+    padding-top: 70px;
+}
+
+.collapser{
+    color: #008f8f;
+    text-decoration: none;
+}
