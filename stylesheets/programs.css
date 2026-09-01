@@ -79,3 +79,21 @@
     background-color: white;
     padding: 25px;
 }
+#program-description{
+    background-color: white;
+    padding: 60px;
+}
+#program-description h2{
+    color: #008f8f;
+}
+
+#program-description h3{
+    color: #008f8f;
+}
+
+#program-paragraph{
+    text-align: left;
+}
+.program-images img{
+    width: 100%;
+}
