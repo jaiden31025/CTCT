@@ -24,3 +24,7 @@ body{
     background-color: black;
     height: 2px;
 }
+a, a:hover{
+    text-decoration: none;
+    color: white;
+}
