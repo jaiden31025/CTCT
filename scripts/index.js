@@ -29,7 +29,9 @@ function pluralString(num){
 // i.e "2 days ago", "3 weeks ago", "1 month ago" etc.
 function formatDays(days){
     var formatedDays = ""
-    if(days < 7){
+    if(days < 1){
+        formatedDays = "Today"
+    }else if(days < 7){
         formatedDays = days + " day" + pluralString(days) + " ago"
     } else if (days < 31){
         var daysToWeeks = Math.floor(days / 7);
@@ -69,6 +71,8 @@ function createFeedItem(d, desc){
 // creates the feed items from an array
 function defineFeed(){
     const feedItems = [
+        new feedItem( new Date("2026-11-25"), "The Career Trumbull & Center Technical Website no longer violates international copyright law."),
+        new feedItem( new Date("2026-10-15"), "The application of Cactus-Scented Deodorant is no longer permitted in Room E104 (Fire / Pyrotechnics Lab)"),
         new feedItem( new Date("2026-10-08"), "Number 2s are no longer permitted in Bathroom B117 during 6th period due to previous incidents."),
         new feedItem( new Date("2026-9-19"), "Wyoming does exist!"),
         new feedItem( new Date("2026-4-03"), "After 2 long months of trial and hardship, we've successfully annexed California."),
